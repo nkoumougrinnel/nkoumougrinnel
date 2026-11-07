@@ -1,0 +1,83 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nkoumou Tjade Grinnel Germain">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.5" stop-color="#101827"/>
+      <stop offset="0.8" stop-color="#172B46"/>
+      <stop offset="1" stop-color="#263B5B"/>
+    </linearGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 30) rotate(135) scale(430)">
+      <stop stop-color="#3E6A9E" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#3E6A9E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(40 260) rotate(-45) scale(300)">
+      <stop stop-color="#7CA5D8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7CA5D8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CA5D8"/>
+      <stop offset="1" stop-color="#3E6A9E"/>
+    </linearGradient>
+    <linearGradient id="hex" x1="914" y1="58" x2="1056" y2="222" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9CC4F0"/>
+      <stop offset="1" stop-color="#3E6A9E"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7CA5D8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round">
+      <rect width="1200" height="280" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#grid)"/>
+    <rect width="1200" height="280" fill="url(#glowRight)"/>
+    <rect width="1200" height="280" fill="url(#glowLeft)"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="72" y="60" width="224" height="34" rx="17" fill="#0D1626" stroke="#3E6A9E" stroke-opacity="0.75"/>
+    <circle cx="93" cy="77" r="4" fill="#7CA5D8"/>
+    <text x="107" y="82" font-size="11.5" font-weight="600" letter-spacing="2.4" fill="#A9BCD4">ENGINEERING STUDENT</text>
+
+    <text x="72" y="146" font-size="25" font-weight="600" letter-spacing="8" fill="#7CA5D8">NKOUMOU TJADE</text>
+    <text x="70" y="204" font-size="62" font-weight="800" letter-spacing="-1" fill="#FFFFFF">Grinnel Germain</text>
+    <rect x="72" y="225" width="120" height="6" rx="3" fill="url(#accent)"/>
+    <text x="72" y="258" font-size="17" fill="#A9BCD4">Network &amp; Security Learner · Systems &amp; IoT</text>
+  </g>
+
+  <g>
+    <circle cx="985" cy="140" r="132" stroke="#3E6A9E" stroke-opacity="0.16"/>
+    <circle cx="985" cy="140" r="112" stroke="#7CA5D8" stroke-opacity="0.28" stroke-dasharray="3 10"/>
+    <polygon points="985,58 1056,99 1056,181 985,222 914,181 914,99" fill="#0D1524" fill-opacity="0.9" stroke="url(#hex)" stroke-width="2.5"/>
+    <polygon points="985,78 1040,110 1040,170 985,202 930,170 930,110" fill="none" stroke="#7CA5D8" stroke-opacity="0.18" stroke-width="1.5"/>
+    <text x="985" y="160" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="url(#hex)">NG</text>
+
+    <g stroke="#3E6A9E" stroke-width="1.5" stroke-opacity="0.5">
+      <path d="M1104 62L1044 95"/>
+      <path d="M1128 152L1056 160"/>
+      <path d="M1072 242L1018 198"/>
+      <path d="M900 246L952 196"/>
+      <path d="M846 162L914 158"/>
+      <path d="M892 60L944 90"/>
+    </g>
+    <g fill="#7CA5D8">
+      <circle cx="1104" cy="62" r="4"/>
+      <circle cx="1128" cy="152" r="3"/>
+      <circle cx="1072" cy="242" r="5"/>
+      <circle cx="900" cy="246" r="3"/>
+      <circle cx="846" cy="162" r="4"/>
+      <circle cx="892" cy="60" r="3"/>
+    </g>
+    <g fill="#9CC4F0">
+      <circle cx="985" cy="58" r="3.5"/>
+      <circle cx="1056" cy="99" r="3.5"/>
+      <circle cx="1056" cy="181" r="3.5"/>
+      <circle cx="985" cy="222" r="3.5"/>
+      <circle cx="914" cy="181" r="3.5"/>
+      <circle cx="914" cy="99" r="3.5"/>
+    </g>
+  </g>
+</svg>

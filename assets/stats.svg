@@ -1,0 +1,36 @@
+<svg width="646" height="44" viewBox="0 0 646 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Followers 7, stars 11, profile views 5">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#161B22"/>
+      <stop offset="1" stop-color="#263B5B"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(0 0)">
+    <rect x="1" y="1" width="208" height="42" rx="12" fill="url(#bg)" stroke="#3E6A9E" stroke-opacity="0.7"/>
+    
+    <g fill="none" stroke="#7CA5D8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="22" cy="17" r="4"/>
+      <path d="M15 30c0-3.9 3.1-6.5 7-6.5s7 2.6 7 6.5"/>
+      <path d="M29 14.5a3 3 0 0 1 0 5.7M31 23.8c2.1.7 3.5 2.4 3.5 4.7"/>
+    </g>
+    <text x="44" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.4" fill="#A9BCD4">FOLLOWERS</text>
+    <text x="192" y="28" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">7</text>
+  </g>
+  <g transform="translate(218 0)">
+    <rect x="1" y="1" width="208" height="42" rx="12" fill="url(#bg)" stroke="#3E6A9E" stroke-opacity="0.7"/>
+    
+    <path d="M22 12l3.1 6.3 6.9 1-5 4.9 1.2 6.8-6.2-3.3-6.2 3.3 1.2-6.8-5-4.9 6.9-1L22 12z" fill="none" stroke="#7CA5D8" stroke-width="1.7" stroke-linejoin="round"/>
+    <text x="44" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.4" fill="#A9BCD4">STARS</text>
+    <text x="192" y="28" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">11</text>
+  </g>
+  <g transform="translate(436 0)">
+    <rect x="1" y="1" width="208" height="42" rx="12" fill="url(#bg)" stroke="#3E6A9E" stroke-opacity="0.7"/>
+    
+    <g fill="none" stroke="#7CA5D8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M13 22s3.5-7 9-7 9 7 9 7-3.5 7-9 7-9-7-9-7z"/>
+      <circle cx="22" cy="22" r="3"/>
+    </g>
+    <text x="44" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.4" fill="#A9BCD4">PROFILE VIEWS</text>
+    <text x="192" y="28" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">5</text>
+  </g>
+</svg>
